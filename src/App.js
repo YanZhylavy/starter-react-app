@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is YanZhylavy's example REACT website :)
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/YanZhylavy/starter-react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          check repo
         </a>
       </header>
     </div>
